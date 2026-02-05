@@ -2,3 +2,19 @@ streamlit>=1.28.0
 pandas>=2.0.0
 supabase>=2.0.0
 pillow>=10.0.0
+
+
+
+
+
+streamlit
+pandas
+supabase
+Pillow
+openpyxl
+
+
+git add requirements.txt
+git commit -m "Add openpyxl for Excel support"
+git push
+
